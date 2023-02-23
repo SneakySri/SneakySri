@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sri
 - 👀 I’m interested in ... everything that grabs my attention
-- 🌱 I’m currently learning ...SpringBoot
+- 🌱 I’m currently learning ...
 - 📫 How to reach me ..._s_r_i_r_a_m_1_6_@instagram.com
 
 <!---
